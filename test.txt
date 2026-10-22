@@ -1,0 +1,1 @@
+sudo patronictl -c /pg/conf/pg-meta-1.yml restart pg-meta pg-meta-1
